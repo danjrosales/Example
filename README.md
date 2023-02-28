@@ -1,4 +1,4 @@
-# Autograded_css-html
+# Autograded html
 A html-validator example for autograding
 
 ## Assignment
